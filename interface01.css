@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 320px;
+    background-color: white;
+    border-radius: 5%;
+    box-shadow: black;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 15px;
+}
+img{
+    margin: auto;
+}
+h1{
+    font-weight: normal;
+    color: grey;
+    font-size: 10px;
+}
+p{
+    font-size: 14px;
+    font-weight: bold;
+}
